@@ -1,7 +1,7 @@
 {
     "name": "Navy Guilds",
     "description": "サーバーリストの背景を紺色にするテーマ",
-    "authors": [{ "name": "あなたの名前" }],
+    "authors": [{ "name": "ADN-CYFLib" }],
     "semanticColors": {
         "BACKGROUND_SECONDARY": [
             "#1a1f3a",
