@@ -4,10 +4,14 @@
     "authors": [{ "name": "ADN-CYFLib" }],
     "semanticColors": {
         "BACKGROUND_SECONDARY": ["#1a1f3a", "#1a1f3a"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#1a1f3a", "#1a1f3a"]
+        "BACKGROUND_MOBILE_SECONDARY": ["#1a1f3a", "#1a1f3a"],
+        "BACKGROUND_TERTIARY": ["#141929", "#141929"]
     },
     "rawColors": {
         "PRIMARY_800": "#1a1f3a"
+    },
+    "plus": {
+        "version": "0"
     },
     "spec": 2
 }
