@@ -3,12 +3,12 @@
     "description": "サーバーリストの背景を紺色にするテーマ",
     "authors": [{ "name": "ADN-CYFLib" }],
     "semanticColors": {
-        "BACKGROUND_SECONDARY": ["#1a3a6b", "#1a3a6b"],
-        "BACKGROUND_MOBILE_SECONDARY": ["#1a3a6b", "#1a3a6b"],
-        "BACKGROUND_TERTIARY": ["#15305a", "#15305a"]
+        "BACKGROUND_SECONDARY": ["#ff0000", "#ff0000"],
+        "BACKGROUND_MOBILE_SECONDARY": ["#ff0000", "#ff0000"],
+        "BACKGROUND_TERTIARY": ["#ff0000", "#ff0000"]
     },
     "rawColors": {
-        "PRIMARY_800": "#1a3a6b"
+        "PRIMARY_800": "#ff0000"
     },
     "plus": {
         "version": "0"
